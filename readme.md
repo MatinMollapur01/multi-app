@@ -14,7 +14,7 @@ The All-in-One App is a desktop application developed using Python's `tkinter` l
 1. Ensure you have Python installed on your system.
 2. Clone the repository:
 
-git clone [Your Repository Link Here]
+git clone : https://github.com/MatinMollapur01/multi-app.git
 
 
 3. Navigate to the directory and run the application:
